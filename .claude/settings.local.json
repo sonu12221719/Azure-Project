@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs wc:*)",
+      "Bash(find c:Users2478502Desktop -type f -name *.pdf)"
+    ]
+  }
+}
